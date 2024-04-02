@@ -12,7 +12,7 @@ const translate = new TranslationServiceClient({
 	key: '<YOUR-API-KEY>',
 	});
 
-const puppeteer = require('puppeteer');
+//const puppeteer = require('puppeteer');
 
 
 const langAttribute = 'xml:lang';

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://ofbiz.apache.org/dtds/ofbiz-properties.xsd">
+  <property key="HumanResRequiredFieldMissingTrainingClassTypeId">
+    <value xml:lang="en">Required Field Missing : Training Class Type Id.</value>
+    <value xml:lang="bg">Липсва задължително поле: Идент. № на типа на класа за обучение.</value>
+  </property>
+</resource>

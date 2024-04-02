@@ -1,1 +1,4 @@
 .project
+translate-scripts/package.json
+translate-scripts/package-lock.json
+/translate-scripts/node_modules
