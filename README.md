@@ -1,1 +1,1 @@
-# ofbiz-bg
+# ofbiz-bg Ofbiz Bulgarian translation
